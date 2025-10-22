@@ -25,24 +25,25 @@ This report examines the mechanisms of social engineering, a class of cyber atta
 
 ## Table of Contents
 
-* 1.0 Introduction to Social Engineering ................... [p. #]
-* 2.0 The Psychology of Deception: How Attackers Exploit Human Nature ..... [p. #]
-* 3.0 Major Types of Social Engineering Attacks ................... [p. #]
-* 4.0 Case Studies in Business Email Compromise (BEC) ................... [p. #]
-* 5.0 Analysis of Attack Patterns and Vulnerabilities ................... [p. #]
-* 6.0 The Consequences of Successful Attacks ................... [p. #]
-* 7.0 Multi-Layered Prevention Strategies ................... [p. #]
-    * 7.1 Technical Controls ................... [p. #]
-    * 7.2 Human Controls ................... [p. #]
-    * 7.3 Policy Controls ................... [p. #]
-* 8.0 Actionable Recommendations ................... [p. #]
-    * Immediate Actions (0-1 Month) ................... [p. #]
-    * Mid-Term Actions (1-6 Months) ................... [p. #]
-    * Long-Term Actions (6+ Months) ................... [p. #]
-* 9.0 Conclusion ................... [p. #]
-* 10.0 References ................... [p. #]
-* Appendix ................... [p. #]
-
+* 1.0 Introduction to Social Engineering
+* 2.0 The Psychology of Deception: How Attackers Exploit Human Nature
+* 3.0 Major Types of Social Engineering Attacks
+* 4.0 Case Studies in Business Email Compromise (BEC)
+* 5.0 Analysis of Attack Patterns and Vulnerabilities
+* 6.0 The Consequences of Successful Attacks
+* 7.0 Multi-Layered Prevention Strategies
+    * 7.1 Technical Controls
+    * 7.2 Human Controls
+    * 7.3 Policy Controls
+* 8.0 Actionable Recommendations
+    * Immediate Actions (0-1 Month)
+    * Mid-Term Actions (1-6 Months)
+    * Long-Term Actions (6+ Months)
+* 9.0 Conclusion
+* 10.0 References
+* Appendix
+  
+---
   
 ## 1.0 Introduction to Social Engineering
 
@@ -273,6 +274,7 @@ The following table outlines the primary psychological triggers exploited by soc
 | **Urgency** | An email from a "senior executive" demands an immediate, "confidential" wire transfer to close a time-sensitive deal. | **Implement Financial Verification Procedures:** Establish clear, multi-step approval processes for financial transactions that are not bypassed for "urgent" requests. |
 | **Curiosity** | An employee sees an online advertisement for a free, popular software tool and clicks the link to download it, which instead installs malware. | **Deploy Advanced Web Filtering:** Use technical controls to block access to known malicious websites and filter out attachments from untrusted sources. |
 | **Authority** | A finance department employee receives an email that appears to be from their CEO instructing them to process an unusual payment without question. | **Role-Based Training:** Provide specialized training for finance and HR staff on recognizing and verifying executive impersonation attempts. |
+
 
 
 
