@@ -1,11 +1,11 @@
 social_engineering_report.md
 # An Analysis of Social Engineering Attacks: Phishing, Pretexting, and Baiting
 
-**Author:** [SHARVAN KOUL]
+**Author:** SHARVAN KOUL
 **Course:** B.Tech in COMPUTER SCIENCE
-**Institution:** [JSPM RSCOE]
-**Date:** [22 OCT 2025]
-**Submitted for:** Internship Task 5 - Research Report on Social Engineering AttackS
+**Institution:** JSPM RSCOE
+**Date:** 22 OCT 2025
+**Submitted for:** Internship Task 5 - Research Report on Social Engineering Attacks
 
 ---
 
@@ -265,3 +265,4 @@ The following table outlines the primary psychological triggers exploited by soc
 | **Urgency** | An email from a "senior executive" demands an immediate, "confidential" wire transfer to close a time-sensitive deal. | **Implement Financial Verification Procedures:** Establish clear, multi-step approval processes for financial transactions that are not bypassed for "urgent" requests. |
 | **Curiosity** | An employee sees an online advertisement for a free, popular software tool and clicks the link to download it, which instead installs malware. | **Deploy Advanced Web Filtering:** Use technical controls to block access to known malicious websites and filter out attachments from untrusted sources. |
 | **Authority** | A finance department employee receives an email that appears to be from their CEO instructing them to process an unusual payment without question. | **Role-Based Training:** Provide specialized training for finance and HR staff on recognizing and verifying executive impersonation attempts. |
+
