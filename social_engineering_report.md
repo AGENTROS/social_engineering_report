@@ -24,26 +24,26 @@ This report examines the mechanisms of social engineering, a class of cyber atta
 ---
 
 ## Table of Contents
-1.0 Introduction to Social Engineering .................................................... [p. #]
-2.0 The Psychology of Deception: How Attackers Exploit Human Nature ..... [p. #]
-3.0 Major Types of Social Engineering Attacks .......................................... [p. #]
-4.0 Case Studies in Business Email Compromise (BEC) ............................ [p. #]
-5.0 Analysis of Attack Patterns and Vulnerabilities ..................................... [p. #]
-6.0 The Consequences of Successful Attacks ............................................ [p. #]
-7.0 Multi-Layered Prevention Strategies ..................................................... [p. #]
-  7.1 Technical Controls .......................................................................... [p. #]
-  7.2 Human Controls ............................................................................ [p. #]
-  7.3 Policy Controls ............................................................................. [p. #]
-8.0 Actionable Recommendations .............................................................. [p. #]
-  Immediate Actions (0-1 Month) ........................................................ [p. #]
-  Mid-Term Actions (1-6 Months) ...................................................... [p. #]
-  Long-Term Actions (6+ Months) .................................................... [p. #]
-9.0 Conclusion ............................................................................................ [p. #]
-10.0 References .......................................................................................... [p. #]
-Appendix ................................................................................................... [p. #]
 
----
+* 1.0 Introduction to Social Engineering ................... [p. #]
+* 2.0 The Psychology of Deception: How Attackers Exploit Human Nature ..... [p. #]
+* 3.0 Major Types of Social Engineering Attacks ................... [p. #]
+* 4.0 Case Studies in Business Email Compromise (BEC) ................... [p. #]
+* 5.0 Analysis of Attack Patterns and Vulnerabilities ................... [p. #]
+* 6.0 The Consequences of Successful Attacks ................... [p. #]
+* 7.0 Multi-Layered Prevention Strategies ................... [p. #]
+    * 7.1 Technical Controls ................... [p. #]
+    * 7.2 Human Controls ................... [p. #]
+    * 7.3 Policy Controls ................... [p. #]
+* 8.0 Actionable Recommendations ................... [p. #]
+    * Immediate Actions (0-1 Month) ................... [p. #]
+    * Mid-Term Actions (1-6 Months) ................... [p. #]
+    * Long-Term Actions (6+ Months) ................... [p. #]
+* 9.0 Conclusion ................... [p. #]
+* 10.0 References ................... [p. #]
+* Appendix ................... [p. #]
 
+  
 ## 1.0 Introduction to Social Engineering
 
 This section defines the concept of social engineering and establishes its critical relevance in the modern cybersecurity landscape. By focusing on the manipulation of human behavior rather than the exploitation of software flaws, social engineering represents a unique and persistent threat. Understanding why attackers choose this method is the first step toward building effective defenses against it.
@@ -273,5 +273,6 @@ The following table outlines the primary psychological triggers exploited by soc
 | **Urgency** | An email from a "senior executive" demands an immediate, "confidential" wire transfer to close a time-sensitive deal. | **Implement Financial Verification Procedures:** Establish clear, multi-step approval processes for financial transactions that are not bypassed for "urgent" requests. |
 | **Curiosity** | An employee sees an online advertisement for a free, popular software tool and clicks the link to download it, which instead installs malware. | **Deploy Advanced Web Filtering:** Use technical controls to block access to known malicious websites and filter out attachments from untrusted sources. |
 | **Authority** | A finance department employee receives an email that appears to be from their CEO instructing them to process an unusual payment without question. | **Role-Based Training:** Provide specialized training for finance and HR staff on recognizing and verifying executive impersonation attempts. |
+
 
 
